@@ -76,7 +76,7 @@ pip install qrcode pillow opencv-python pyzbar numpy
 
 ## UI/UX Limitation
 
-- When the QR code is verified successfully! You may not see the green frame because verification happens very fast. Please listen for the confirmation sound.
+- When the QR code is verified successfully! **You may not see the green frame** because verification happens very fast. **Please listen for the confirmation sound.**
 
 ## Author
 
