@@ -80,5 +80,5 @@ pip install qrcode pillow opencv-python pyzbar numpy
 
 ## Author
 
-✨ Developed for the **PPP Event Ticketing System**.
+✨ Developed for the **15th Photo Phnom Penh Festival Ticketing System**.
 
